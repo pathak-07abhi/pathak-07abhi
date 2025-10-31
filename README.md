@@ -42,7 +42,7 @@
 - 🧠 My main interests are **Open Source, Web Development, AI/ML**.
 - 🧑🏼‍💻 I'm currently working on **Some real life Projects**.
 - 💻 I'm looking to collaborate on **Python scripts, beginner-friendly web apps**.
-- 🌱 I'm currently learning **Data Science and Machine learing**.
+- 🌱 I'm currently learning **Data Science and Machine learning**.
 - 📫 How to reach me: **abhi07rv@gmail.com**
 
 ---
